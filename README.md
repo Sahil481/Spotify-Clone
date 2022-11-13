@@ -1,4 +1,4 @@
-# Spotify Clone
+# [Spotify Clone](https://sahil-spotify-clone.netlify.app/)
 
 This is a spotify clone app made in React JS using the spotify
 API. It displays user playlists and the songs inside them.
@@ -79,7 +79,8 @@ The Spotify API requires a premium account to execute certain
 tasks and for this reason it may not work for everyone.
 # 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![app](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e0c52e4-9906-48ee-a4b5-29eb8d7f039e/deploy-status)](https://app.netlify.com/sites/sahil-spotify-clone/deploys)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)
 
 
