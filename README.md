@@ -1,4 +1,4 @@
-![Spotify Logo](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/folder_920_201707260845-1.png)
+![Spotify Logo](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png)
 # [Spotify Clone](https://sahil-spotify-clone.netlify.app/)
 
 This is a spotify clone app made in React JS using the spotify API. It allows the user to access their playlist and thier songs. It uses the spotify API to 
