@@ -67,18 +67,19 @@ to and their duration in minutes and seconds.
 
 | Color    | Hex   | RGB                                                                     |
 | ----------------- | ------------------------------------------------------------------ | ---------- |
-| Login Screen | ![#1db954](https://via.placeholder.com/10/1db954?text=+) #1db954 | 29, 185, 84 |
-| SiderBar | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 | 0, 0, 0
-| Footer | ![#181818](https://via.placeholder.com/10/181818?text=+) #181818 | 24, 24, 24
-| Body | ![#000000](https://via.placeholder.com/10/181818?text=+) #000000 | 0, 0, 0
-| Body | ![#205764](https://via.placeholder.com/10/205764?text=+) #205764 | 32, 87, 100
+| Login Screen | #1db954 | 29, 185, 84 |
+| SiderBar | #000000 | 0, 0, 0
+| Footer | #181818 | 24, 24, 24
+| Body | #000000 | 0, 0, 0
+| Body | #205764 | 32, 87, 100
 
 ## Note
 
 The Spotify API requires a premium account to execute certain
 tasks and for this reason it may not work for everyone.
 # 
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![app](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e0c52e4-9906-48ee-a4b5-29eb8d7f039e/deploy-status)](https://app.netlify.com/sites/sahil-spotify-clone/deploys)
 
 
