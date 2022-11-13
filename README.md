@@ -1,7 +1,7 @@
 # [Spotify Clone](https://sahil-spotify-clone.netlify.app/)
 
 This is a spotify clone app made in React JS using the spotify API. It allows the user to access their playlist and thier songs. It uses the spotify API to 
-get the user's info such as playlists, songs, username, etc. It may not work for everyone. [Read this](##Note)
+get the user's info such as playlists, songs, username, etc. It may not work for everyone. [Read this](## Note)
 
 
 ## Screenshots
