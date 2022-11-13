@@ -1,7 +1,7 @@
 # [Spotify Clone](https://sahil-spotify-clone.netlify.app/)
 
-This is a spotify clone app made in React JS using the spotify
-API. It displays user playlists and the songs inside them.
+This is a spotify clone app made in React JS using the spotify API. It allows the user to access their playlist and thier songs. It uses the spotify API to 
+get the user's info such as playlists, songs, username, etc. It may not work for everyone. [Read this](##Note)
 
 
 ## Screenshots
@@ -31,7 +31,7 @@ in that playlist as the spotify API has some limitations.
 
 The design is based on the older version of spotify web. I have not
 made the home, search and your library page. The design contains
-the side bar, the navbar and the main body.
+the side bar, the navbar, the footer and the main body.
 
 #### Footer
 
