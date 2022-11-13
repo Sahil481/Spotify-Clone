@@ -48,7 +48,7 @@ along with the title and the name of the author.
 The sidebar consists of the logo the navigation and the user's
 playlists that the user can use to switch between it's playlists.
 
-![App Screenshot](https://user-images.githubusercontent.com/99671469/201523943-4d303ccc-025b-4bcc-a500-8ca2693b4c49.png)
+![App Screenshot](https://user-images.githubusercontent.com/99671469/201528041-e7776693-2038-443e-add5-b3819424582f.png)
 
 #### Navbar
 
